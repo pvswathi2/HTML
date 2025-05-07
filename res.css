@@ -1,0 +1,28 @@
+.main img{
+    width: 50px;
+    height: 50px;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin-left: 50px;
+}
+h3{
+    display: inline-block;
+    padding-left: 500px;
+    font-size: 30px;
+}
+.container{
+    /* border: 5px solid black; */
+    width:80%;
+    padding: 60px;
+    /* margin: 30px; */
+    margin-left: 80px;
+}
+.item-1,.item-2,.item-3,.item-4{
+    display:inline-block;
+    width: 300px;
+    padding: 10px;
+}
+img{
+    width: 300px;
+   
+}
