@@ -1,0 +1,30 @@
+.container{
+    background-color:black;
+    color: white;
+    
+  
+    border: 2px solid red;
+    height: 400;
+    position: fixed;
+    z-index: 1;
+   width: 100%;
+   
+}
+.item-1{
+    display: inline-block;
+    margin-left: 70%;
+    
+    
+}
+.item-1{
+    position: relative;
+}
+.item-3{
+    position: absolute;
+    text-align: center;
+    top: 500px;
+    left: 700px;
+    color: white;
+    display:inline-block;
+    
+}
